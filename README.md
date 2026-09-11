@@ -1,9 +1,8 @@
-<img width="1902" height="982" alt="image" src="https://github.com/user-attachments/assets/dc991dba-8f31-41a3-9bf2-c4e19c338983" /># Doke Surita — Portfolio
+# Doke Surita — Portfolio
+
+<img width="1902" height="982" alt="image" src="https://github.com/user-attachments/assets/dc991dba-8f31-41a3-9bf2-c4e19c338983" />
 
 <img width="1902" height="982" alt="image" src="https://github.com/user-attachments/assets/7a26fb64-e790-4e8c-99e8-f54130841c24" /> <img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/330f353c-e9b1-42e2-9f85-82e675a26f35" />
-
-<img width="400" height="859" alt="image" src="https://github.com/user-attachments/assets/50f125ea-5b8e-48cd-b12e-e4228e9a8ecf" /> <img width="392" height="853" alt="image" src="https://github.com/user-attachments/assets/de154417-1c9b-428c-9a4c-f897efb349bc" />
-
 
 
 
